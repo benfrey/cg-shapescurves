@@ -1,10 +1,13 @@
 # Line Drawing - Shapes and Curves
 
 Each of the items below have been completed. To view in your web browser, visit "https://benfrey.github.io/cg-shapescurves/".
-<br>
+<br><br>
+
 To view on local machine, please download the repository and open "index.html" in a modern web browser to view each of the relevant slides and evaluate functionality.
-<br>
+<br><br>
+
 Line Drawing - Shapes and Curves starter code using the HTML5 Canvas API
+<br>
 
 ## Shapes / Curves Slide Show (40 pts)
 
