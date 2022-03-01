@@ -4,14 +4,14 @@ Each of the items below have been completed. Please download the repository and 
 
 Line Drawing - Shapes and Curves starter code using the HTML5 Canvas API
 
-##Shapes / Curves Slide Show (40 pts)
+## Shapes / Curves Slide Show (40 pts)
 
-###Slides (32 pts)
+### Slides (32 pts)
 - Slide 0: Rectangle (8 pts) **(Complete)**
 - Slide 1: Circle (8 pts) **(Complete)**
 - Slide 2: Bezier curve (8 pts) **(Complete)**
 - Slide 3: Draw your name - must use at least one straight line, one circle, and one curve (8 pts) **(Complete)**
-###User controlled options (8 pts)
+### User controlled options (8 pts)
 - Number of sections to divide circles/curves into (4 pts) **(Complete)**
 - Ability to show / hide points used in drawing routines (4 pts) **(Complete)**
 <\br>
