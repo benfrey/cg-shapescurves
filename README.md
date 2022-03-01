@@ -14,5 +14,6 @@ Line Drawing - Shapes and Curves starter code using the HTML5 Canvas API
 ### User controlled options (8 pts)
 - Number of sections to divide circles/curves into (4 pts) **(Complete)**
 - Ability to show / hide points used in drawing routines (4 pts) **(Complete)**
-<\br>
+<br><br>
+
 Note: all shapes will be outlines (i.e. the rectangle and circle will not be filled in).
